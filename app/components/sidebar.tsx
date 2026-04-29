@@ -252,7 +252,7 @@ export function SideBar(props: { className?: string }) {
       <SideBarHeader
         title="发扬滇风"
         subTitle="我好，你是发扬滇风。
-有什么可以帮你？."
+有什么可以帮你？"
         logo={<ChatGptIcon />}
         shouldNarrow={shouldNarrow}
       >
